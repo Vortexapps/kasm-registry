@@ -4,9 +4,6 @@
     "image_src": "steam.png",
     "name": "vortexapp/steamkasm:latest",
     "run_config": {
-      "hostname": "kasm"
-    },
-    "exec_config": {
         "privileged": true
     },
     "categories": [

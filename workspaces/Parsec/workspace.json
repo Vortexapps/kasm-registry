@@ -1,7 +1,7 @@
 {
     "description": "Parsec lets you access your high-powered computer from anywhere, like playing PC games on your phone.",
     "docker_registry": "https://index.docker.io/v1/",
-    "image_src": "parsec.png",
+    "image_src": "parsecd.png",
     "name": "vortexapp/parseckasm:latest",
     "run_config": {
       "hostname": "kasm"

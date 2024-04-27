@@ -1,0 +1,22 @@
+{
+    "description": "Prism Launcher allows you to install mod's from different modloaders to get an upgraded minecraft experience.",
+    "docker_registry": "https://index.docker.io/v1/",
+    "image_src": "prismlauncher.webp",
+    "name": "vortexapp/prismlauncherkasm:latest",
+    "run_config": {
+      "hostname": "kasm"
+    },
+    "categories": [
+      "Gaming"
+    ],
+    "friendly_name": "Minecraft Mods",
+    "architecture": [
+      "amd64",
+      "arm64"
+    ],
+    "compatibility": [
+      "1.13.x",
+      "1.14.x"
+    ],
+    "uncompressed_size_mb": 3300
+  }

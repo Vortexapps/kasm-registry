@@ -1,7 +1,7 @@
 {
     "description": "Multiple hacks to make the game easier.",
     "docker_registry": "https://index.docker.io/v1/",
-    "image_src": "blooket.webp",
+    "image_src": "blooket.png",
     "name": "vortexapp/blooketkasmhack:latest",
     "run_config": {
       "hostname": "kasm"

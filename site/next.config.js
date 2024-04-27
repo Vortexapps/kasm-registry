@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'Gaming Registry',
+    description: 'Tons of games',
+    icon: 'https://icons.veryicon.com/png/o/miscellaneous/alan-ui/logo-game-controller-2.png',
+    listUrl: 'https://vortexapps.github.io/kasm-registry/',
+    contactUrl: 'https://github.com/vortexapps/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,

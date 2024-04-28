@@ -2,7 +2,7 @@
     "description": "Part 3 of the henry stickman series titled 'Stealing The Diamond'",
     "docker_registry": "https://index.docker.io/v1/",
     "image_src": "Stickman3.avif",
-    "name": "vortexapp/henrystickman3kasm",
+    "name": "vortexapp/henrystickman3kasm:latest",
     "run_config": {
         "hostname": "kasm-appimage",
         "privileged": true

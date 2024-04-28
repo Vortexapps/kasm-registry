@@ -2,7 +2,7 @@
     "description": "Part 5 of the henry stickman series titled 'Fleeing The Complex'",
     "docker_registry": "https://index.docker.io/v1/",
     "image_src": "Stickman5.jpg",
-    "name": "vortexapp/henrystickman5kasm",
+    "name": "vortexapp/henrystickman5kasm:latest",
     "run_config": {
         "hostname": "kasm-appimage",
         "privileged": true

@@ -1,0 +1,23 @@
+{
+    "description": "Endless Sky is a free, open-source, 2D space trading and combat simulation video game. In the game, players start as a spaceship captain who can earn money by trading, transporting passengers, or fighting pirates.",
+    "docker_registry": "https://index.docker.io/v1/",
+    "image_src": "endlessky.png",
+    "name": "vortexapp/endlesskykasm:latest",
+    "run_config": {
+        "hostname": "kasm-appimage",
+        "privileged": true
+    },
+    "categories": [
+      "Gaming"
+    ],
+    "friendly_name": "Endless Sky",
+    "architecture": [
+      "amd64",
+      "arm64"
+    ],
+    "compatibility": [
+      "1.13.x",
+      "1.14.x"
+    ],
+    "uncompressed_size_mb": 14500
+  }

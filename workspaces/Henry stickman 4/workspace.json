@@ -1,7 +1,7 @@
 {
     "description": "Part 4 of the henry stickman series titled 'Infiltrating The Airship'",
     "docker_registry": "https://index.docker.io/v1/",
-    "image_src": "Stickman4.png",
+    "image_src": "stickman4.png",
     "name": "vortexapp/henrystickman4kasm:latest",
     "run_config": {
         "hostname": "kasm-appimage",

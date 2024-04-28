@@ -1,0 +1,23 @@
+{
+    "description": "Part 2 of the henry stickman series titled 'Escaping The Prison'",
+    "docker_registry": "https://index.docker.io/v1/",
+    "image_src": "Stickman2.webp",
+    "name": "vortexapp/henrystickman2kasm",
+    "run_config": {
+        "hostname": "kasm-appimage",
+        "privileged": true
+    },
+    "categories": [
+      "Gaming"
+    ],
+    "friendly_name": "Henry Stickman 2 - Escaping The Prison",
+    "architecture": [
+      "amd64",
+      "arm64"
+    ],
+    "compatibility": [
+      "1.13.x",
+      "1.14.x"
+    ],
+    "uncompressed_size_mb": 14500
+  }
